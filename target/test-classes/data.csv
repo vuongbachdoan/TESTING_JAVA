@@ -1,0 +1,20 @@
+Roadside,YES,0,ABC01,10000,400,Public place,2022/02/07,77
+Roadside,YES,1,ABC02,10000,400,Public place,2022/02/08,88
+At home,NO,0,ABC03,10000,400,Public place,2022/02/09,58
+At home,YES,1,ABC04,10000,400,Public place,2022/02/10,62
+Roadside,NO,0,ABC05,10000,500,Driveway/Carport,2022/02/11,57
+Roadside,NO,1,ABC06,10000,400,Driveway/Carport,2022/02/12,60
+Europan,NO,0,ABC07,10000,400,Public place,2022/02/13,61
+Europan,NO,1,ABC08,10000,400,Public place,2022/02/14,66
+Europan,YES,0,ABC07,10000,400,Public place,2022/02/13,82
+Europan,YES,1,ABC08,10000,400,Public place,2022/02/14,96
+Europan,YES,0,ABC07,10000,400,Public place,2022/02/13,82
+Europan,YES,1,ABC08,10000,400,Public place,2022/02/14,96
+Europan,NO,0,ABC07,10000,400,Public place,2022/02/13,61
+Europan,NO,1,ABC08,10000,400,Public place,2022/02/14,66
+Europan,NO,0,ABC07,10000,600,Public place,2022/02/13,67
+Europan,NO,1,ABC08,10000,600,Public place,2022/02/14,74
+Europan,NO,0,ABC07,10000,700,Public place,2022/02/13,70
+Europan,NO,1,ABC08,10000,700,Public place,2022/02/14,78
+Europan,NO,0,ABC07,10000,700,Public place,2022/02/13,91
+Europan,YES,1,ABC08,10000,700,Public place,2022/02/14,108
